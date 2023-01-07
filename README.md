@@ -31,4 +31,5 @@ With the help of given data, I performed EDA, manual, hierarchical and K means c
 To whoever reads this, I hope my insights and recommendations from this case study were meaningful.
 
 Thank you,
+
 Krishna
